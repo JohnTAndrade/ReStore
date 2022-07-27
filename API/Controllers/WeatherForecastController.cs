@@ -14,7 +14,7 @@ namespace API.Controllers
         {
 
 
-        "Freezingx", "Bracingx", "Chillyc", "Coolz", "Mild", "Warml", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezingx", "Bracingx", "Chillyc", "Coolz", "Mild", "Warml", "Balmy", "Hotz", "Sweltering", "Scorching"
 
         };
 
