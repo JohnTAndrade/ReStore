@@ -13,7 +13,9 @@ namespace API.Controllers
         private static readonly string[] Summaries = new[]
         {
 
+
         "Freezingx", "Bracingx", "Chillyc", "Coolz", "Mild", "Warml", "Balmy", "Hot", "Sweltering", "Scorching"
+
         };
 
 
